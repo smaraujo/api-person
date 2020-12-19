@@ -1,8 +1,8 @@
-<h4>Sistema de gerenciamento de pessoas em API REST com Spring Boot</h4>
+<h2>Sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
  
 Sistema desenvolvido durante o bootcamp Everis FullStack Developer em parceria com a Digital Innovation one.
 
-<h4>Tecnologias Usadas</h4>
+<h3>Tecnologias Usadas</h3>
 
  - Java 11 +
  - Spring Web
@@ -19,10 +19,10 @@ Durante a sessão, serão desenvolvidos e abordados os seguintes tópicos:
  - Desenvolvimento de testes unitários para validação das funcionalidades
  - Implantação do sistema na nuvem através do Heroku
  
- <h4>Para executar o projeto no terminal, digite o seguinte comando:</h4>
+ <h3>Para executar o projeto no terminal, digite o seguinte comando:</h3>
  
  mvn spring-boot:run 
  
- <h4>Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:</h4>
+ <h3>Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:</h3>
  
  http://localhost:8080/api/v1/people
